@@ -1,9 +1,10 @@
-# AGE动漫 age.tv
+# AGE动漫
 DOMAIN-SUFFIX,agedm.org
 DOMAIN-SUFFIX,bfzycdn.com
 DOMAIN-SUFFIX,toutiaovod.com
 DOMAIN-SUFFIX,ffzyread.com
-DOMAIN-SUFFIX,day.app
+DOMAIN-SUFFIX,1080pzy.co
+DOMAIN-SUFFIX,bfvvs.com
 # ikun资源站 ikunzy.com
 DOMAIN-SUFFIX,ikunzy.com
 DOMAIN-SUFFIX,ikunzy.net
@@ -17,3 +18,16 @@ DOMAIN-SUFFIX,ahjunqin.top
 # 魔都资源网 moduzy.com、moduzy1.com 至 moduzy10.com
 moduzy.com
 modujx.com
+# AGE动漫
+DOMAIN-SUFFIX,agedm.org
+DOMAIN-SUFFIX,bfzycdn.com
+DOMAIN-SUFFIX,toutiaovod.com
+DOMAIN-SUFFIX,ffzyread.com
+DOMAIN-SUFFIX,1080pzy.co
+DOMAIN-SUFFIX,bfvvs.com
+# 饭团动漫
+DOMAIN-SUFFIX,acgfta.com
+DOMAIN-SUFFIX,yzzy-online.com
+DOMAIN-SUFFIX,lz-cdn14.com
+DOMAIN-SUFFIX,cdnlz14.com
+DOMAIN-SUFFIX,vip-vip-yzzy.com
