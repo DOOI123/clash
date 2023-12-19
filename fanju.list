@@ -25,8 +25,8 @@ DOMAIN-SUFFIX,ikzy9.com
 DOMAIN-SUFFIX,leshivideoplayurl.com
 DOMAIN-SUFFIX,ahjunqin.top
 # 魔都资源网 moduzy.com、moduzy1.com 至 moduzy10.com
-moduzy.com
-modujx.com
+DOMAIN-SUFFIX,moduzy.com
+DOMAIN-SUFFIX,modujx.com
 # AGE动漫
 DOMAIN-SUFFIX,agedm.org
 DOMAIN-SUFFIX,bfzycdn.com
