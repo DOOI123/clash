@@ -15,7 +15,6 @@ payload:
   - DOMAIN-KEYWORD,ffzy-online
   - DOMAIN,api.day.app
   - DOMAIN,idoo.ltd
-  - DOMAIN,0.idoo.ltd
-  - DOMAIN,1.idoo.ltd
+  - DOMAIN,ipv4.idoo.ltd
   - DOMAIN,api.cloudflare.com
   - DOMAIN-SUFFIX,api.v1.mk
