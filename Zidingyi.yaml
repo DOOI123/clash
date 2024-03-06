@@ -18,3 +18,6 @@ payload:
   - DOMAIN,ipv6.idoo.ltd
   - DOMAIN,api.cloudflare.com
   - DOMAIN-SUFFIX,api.v1.mk
+  - DOMAIN-SUFFIX,alist.idoo.ltd
+  - DOMAIN-SUFFIX,ql.idoo.ltd
+  - DOMAIN-SUFFIX,v6.idoo.ltd
